@@ -1,0 +1,15 @@
+criando projeto
+npx create-react-app my-project
+
+startando projeto
+npm start
+
+
+instruções:
+
+JSX - Nosso código html é permitido receber variáveis do javscript, usando {código javascript}
+é preciso que nossos elementos html, estejam dentro de um só elemento, por exemplo uma div
+
+componentes - todas as aplicações possuem componentes, faz a divisão da aplicação em várias partes, precisamos criar um arquivo para o componente e importá-lo, onde será necessário ir
+
+
